@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sam Tiéfolo Diabaté
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Irish Climate Analysis and Research UnitS (ICARUS), Maynooth University
+  url: "https://www.maynoothuniversity.ie/icarus"
+#- name: A4: Aigéin, Aeráid, agus athrú Atlantaigh, ICARUS, Maynooth University
+#    url: "https://a-ceathair.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on ocean currents and sea level.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ocean Dynamics
+- Sea level
+- Tide Gauge
+- Underwater Gliders
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physical Oceanography (ongoing)
+    institution: Maynooth University, Ireland
+    year:
+  - course: MSc (Master 2) in Physical Oceanography
+    institution: Université Toulouse III Paul Sabatier, France & International Chair In Mathematical Physics and Applications, Benin
+    year: 2019
+  - course: MSc (Master 1) in Ocean, Atmosphere, and Climate Sciences
+    institution: Université Toulouse III Paul Sabatier, France
+    year: 2018
+  - course: BSc (Licence) in Engineering Sciences
+    institution: Université du Mans, France
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,27 +46,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:samuel.diabate.2020@mumail.ie'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +74,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Sam Tiéfolo Diabaté, and I am a PhD student in Physical Oceanography at Maynooth University, Ireland. I work under the supervision of Dr. Gerard McCarthy and we are part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of researcher. My research focuses on oceanic currents and their relationship with sea level.
